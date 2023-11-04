@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Rubik&display=swap");
+
+body {
+  background-color: hsl(212, 45%, 89%) !important;
+  font-family: "Outfit", sans-serif !important; 
+  font-family: "Rubik", sans-serif !important;
+}
+.card {
+  border-radius: 20px !important;
+
+}
+.card img {
+  padding: 20px;
+  border-radius: 30px;
+  background-color: hsl(0, 0%, 100%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h4 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700 !important;
+}
+P {
+  color: hsl(220, 15%, 55%);
+  font-weight: 400 !important;
+}
+.card-text {
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+}
+.card-body {
+  text-align: center;
+}
